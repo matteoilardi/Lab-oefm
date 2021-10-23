@@ -1,0 +1,101 @@
+f = 0.048, sigma_f = 0.001
+F = 0.252, sigma_F =  0.001
+a = 0.48, sigma_a = 0.2
+D = 13.27, sigma_D = 0.04
+
+f: distanza focale prima lente (m)
+F: distanza focale seconda lente (m)
+a: distanza tra seconda lente e specchio rotante (m)
+D: distanza tra specchio rotante e specchio concavo, ossia raggio di curvatura (m)
+
+MISURE: frequenza (Hz), delta (mm)
+Per convenzione le frequnze in senso orario sono negative.
+Primo set (senso orario):
+-59  13.25
+-511 13.12
+-565 13.11
+-612 13.10
+-648 13.09
+-687 13.08
+-735 13.06
+-772 13.05
+-811 13.04
+-840 13.03
+-888 13.02
+-912 13.01
+-1405 12.86
+-1408 12.87
+-1418 12.87
+-1419 12.87
+
+
+Secondo set (senso antiorario):
+168 13.31
+610 13.44
+668 13.45
+693 13.45
+753 13.47
+809 13.49
+852 13.50
+888 13.51
+897 13.51
+898 13.51
+907 13.50
+910 13.51
+1411 13.63
+1416 13.64
+1423 13.64
+1425 13.63
+
+
+Terzo set (massima escursione):
+898 13.51
+-908 13.01
+908 13.51
+-911 13.01
+910 13.51
+-911 13.01
+1415 13.64
+-1410 12.86
+1416 13.64
+-1420 12.87
+1415 13.64
+-1421 12.85
+1413 13.64
+-1404 12.87
+1406 13.64
+-1406 12.87
+
+
+
+
+
+
+Altre misure in senso orario:
+-223 13.20
+-276 13.19
+-322 13.18
+-342 13.17
+-372 13.16
+-398 13.15
+-435 13.14
+-456 13.14
+-477 13.13
+
+controllo:
+-85 13.24
+-177 13.22
+-193 13.22
+
+Altre misure in senso antiorario:
+220 13.33
+270 13.35
+328 13.36
+382 13.37
+450 13.39
+520 13.41
+
+controllo:
+93  13.29
+180 13.32
+197 13.32
