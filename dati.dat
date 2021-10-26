@@ -1,6 +1,6 @@
 f = 0.048, sigma_f = 0.001
 F = 0.252, sigma_F =  0.001
-a = 0.48, sigma_a = 0.2
+a = 0.480, sigma_a = 0.003
 D = 13.27, sigma_D = 0.04
 
 f: distanza focale prima lente (m)
